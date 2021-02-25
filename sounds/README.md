@@ -53,7 +53,7 @@ The following technologies are required to run the server and use it locally.
    ```sh
    node app.js
    ```
-The Server is now running on http:/localhost:3030
+The Server is now running on http://localhost:3030
 <!-- USAGE EXAMPLES -->
 ## Usage
 
